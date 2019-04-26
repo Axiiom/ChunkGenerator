@@ -1,0 +1,8 @@
+name: ChunkLoader
+version: 1.0-SNAPSHOT
+main: net.axiiom.chunkloader.ChunkLoader
+api-version: 1.13
+
+commands:
+  generate:
+    description: nah

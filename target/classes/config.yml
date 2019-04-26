@@ -1,0 +1,10 @@
+#distance to generate terrain from the center of the map.
+#ex. (1000) would generate 1000 blocks in EACH direction from the center of the map
+generation-distance: 10000
+
+#server's view distance
+view-distance: 10
+
+#number of seconds to wait between teleports
+#RECOMMENDED=20
+wait-time: 20
